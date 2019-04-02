@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: erikg
+Build-Jdk: 11.0.2
+Implementation-Title: ramos
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ch.gomes
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ramos
+Created-By: Maven Integration for Eclipse
+
